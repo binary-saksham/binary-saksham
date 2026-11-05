@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Saksham 👋
 
-<!--
-**binary-saksham/binary-saksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | Python | Backend Development | Data Analytics
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building practical software, backend systems, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python, SQL
+- FastAPI, Django
+- Power BI, Excel
+- Pandas, NumPy, Matplotlib
+
+### Featured Projects
+- **Saki** – Privacy-focused, real-time one-to-one communication platform.
+- **FastAPI** – Backend API project with user and post management.
+- **Data Analytics** – Dashboards and analysis using real-world datasets.
+
+### Currently
+- Looking for software development and data analytics internships.
+- Improving my backend development and problem-solving skills.
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/saksham-b-8a1466449/)
