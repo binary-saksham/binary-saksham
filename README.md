@@ -20,4 +20,4 @@ I'm a Computer Science student interested in building practical software, backen
 - Improving my backend development and problem-solving skills.
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/saksham-b-8a1466449/)
+- [LinkedIn](https://www.linkedin.com/in/saksham-bharkeciya-848602314/)
